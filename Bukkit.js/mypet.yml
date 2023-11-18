@@ -1,0 +1,16 @@
+mypet:
+  a3516985-3b80-4724-b8bc-4d2fb7c0023c:
+    base-self:
+      Life: 9.0
+      Damage: 3.0
+    base:
+      Life: 12.0
+      Damage: 4.0
+  d218c8b9-0e7e-4bdb-b217-d541fd28b156:
+    base:
+      Life: 1.0
+      Damage: 0.0
+  3a61a84c-0b0c-4f61-9f33-c9ad99edf12a:
+    base:
+      Life: 2.0
+      Damage: 0.0

@@ -1,0 +1,31 @@
+memo
+
+
+
+
+out = {}
+
+k = Falling UUID
+v = {"RANK": "各ランクのアイテム配列"}
+
+
+
+
+
+Call Command
+  数回ループして確率からランクを選択
+  ランクに応じたFallingをspawnFalling
+  FallingUUIDをキー、値にアイテムをセットする
+
+
+onChangeBlock
+
+  FallingUUIDがキーにあるか
+  各ランクごとにキーに元づくアイテムがあるか
+
+  演出のためループ遅延を入れる
+
+  
+
+
+
